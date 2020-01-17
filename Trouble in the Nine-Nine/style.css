@@ -1,0 +1,118 @@
+body {
+  background: steelblue;
+  font-family: 'Karla', sans-serif;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  float: left;
+  width: 100%;
+}
+
+h3 {
+  font-weight: 900;
+  margin-top: 80px;
+}
+
+p {
+  line-height: 2;
+}
+
+h1, h2 {
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+}
+
+h1 {
+  text-align: center;
+  background: #344756;
+  color: white;
+  padding: 20px;
+  margin-bottom: 0px;
+  width: 100%;
+  box-shadow: inset 0 0 10px #17354c;
+}
+
+footer {
+  background: steelblue;
+  color: white;
+  text-align: right;
+}
+
+
+h2 {
+  font-size: 30px;
+  font-weight: 900;
+  margin: 0px;
+}
+
+a {
+  color: white;
+  background: steelblue;
+  width: 200px;
+  padding: 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  background: yellow;
+  color: black;
+  box-shadow: inset 0 0 8px goldenrod;
+}
+
+section, footer, img {
+  padding: 10px;
+  margin: 10px;
+  margin-bottom: 0px;
+  margin: 0px;
+}
+
+img.title {
+  width: 30%;
+  margin: auto;
+  display: block;
+}
+
+img.precinct {
+  width: 40%;
+  float: right;
+  margin-top: 0px;
+  border: 20px;
+  background:  #f6e804;
+}
+
+img.house {
+  width: 35%;
+  float: right;
+  margin-top: 0px;
+  border: 20px;
+  background:  #f6e804;
+}
+
+img.bad {
+  width: 20%;
+  float: right;
+}
+
+img.good {
+  width: 55%;
+  float: right;
+  margin-top: 0px;
+  border: 20px;
+  background:  #f6e804;
+}
+
+section {
+  background: lightsteelblue;
+  padding: 100px;
+  margin: 0px;
+}
+
+h2.tag {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 22px;
+  background: #f6e804;
+  padding: 10px;
+  margin-top: 0px;
+  width: 100%;
+  box-shadow: inset 0 0 8px goldenrod;
+}
